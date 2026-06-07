@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-display: 'Outfit', 'Inter', sans-serif;
+  --color-court-green-950: #022c22;
+  --color-court-green-900: #064e3b;
+  --color-court-green-800: #065f46;
+  --color-court-green-700: #0f766e;
+  --color-court-green-100: #d1fae5;
+  --color-court-gold-500: #d4af37;
+  --color-court-gold-600: #ca8a04;
+  --color-court-gold-400: #facc15;
+  --color-court-gold-100: #fef9c3;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f8fafc;
+  color: #0f172a;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "PTSP Online PTA Bangka Belitung",
+  "description": "Pelayanan Terpadu Satu Pintu (PTSP) Online Pengadilan Tinggi Agama Kepulauan Bangka Belitung dengan telekonsultasi Zoom, Google Meet, WhatsApp, dan Asisten Virtual AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
